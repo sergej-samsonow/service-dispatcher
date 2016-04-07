@@ -1,0 +1,23 @@
+{
+  "name": "service-dispatcher",
+  "version": "0.0.1",
+  "description": "rest api for the inter service communication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugen-regner/service-dispatcher.git"
+  },
+  "author": "The holy ghost",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eugen-regner/service-dispatcher/issues"
+  },
+  "homepage": "https://github.com/eugen-regner/service-dispatcher#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "restify": "^4.0.4"
+  }
+}
